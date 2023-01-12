@@ -1,0 +1,68 @@
+body{
+    /* background-color: red; */
+}
+.last{
+    grid-gap: 18px;
+}
+
+.box{
+    width: 600px;
+    margin: auto;
+    margin: 8px;
+}
+.middle{
+    width: 633px;
+}
+#middileinfo{
+    width: 350px;
+    
+}
+#btn{
+    height: 65px;
+    width: 165px;
+    border-radius: 25px;
+    font-size: 26px;
+}
+.info{
+ 
+    height: 320px;
+}
+#infopara{
+ margin: auto;
+ width: 350px;
+}
+#infoheading{
+    width :270px;
+    margin-left: -50px;
+}
+#infosubheading{
+    
+    margin-left: -100px;
+}
+.member{
+    margin-left: 8px;
+    width: 600px;
+
+}
+#memberheading{
+    font-size: 30px;
+   
+}
+.navbar ul li a{
+          
+        font-size: 10px;
+        margin : auto 5px;
+
+}
+.navbar{
+    width: 570px;
+}
+.contactbottom{
+    
+    margin-left: 31px;
+
+}
+.copy{
+    width: 600px;
+    font-size: 12px;
+}

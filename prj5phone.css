@@ -1,0 +1,10 @@
+body{
+    /* background-color: blueviolet; */
+}
+
+.navbar ul li a{
+    margin : auto 10px
+}
+.contactbottom{
+    margin: 90px;
+}

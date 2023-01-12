@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta style="max-width: 633px;" name="viewport" content="width=device-width, initial-scale=0.5">
+    <link id="icon"rel="shortcut icon" href="https://us.123rf.com/450wm/wikagraphic/wikagraphic2101/wikagraphic210108125/wikagraphic210108125.jpg?ver=6">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <title>CoursesX.com</title>
+   
+    <link rel="stylesheet" href="prj5.css">
+    <link rel="stylesheet" media="screen and (max-width: 935px)" href="prj5phone.css">
+    <link rel="stylesheet" media="screen and (max-width: 633px)" href="prj5smallphone.css">
+   
+</head>
+
+<body>
+                                                    <!-- JAY SHREE RAM -->
+                                                    <!-- JAY SHREE RAM -->
+                                                    <!-- JAY SHREE RAM -->
+                                                    <!-- JAY SHREE RAM -->
+    <div class="container" id="cont">
+        <div class="navbar">
+            <ul>
+                <li><a href="#box4">Python</a></li>
+                <li><a href="#box3">java</a></li>
+                <li><a href="#box2">C++</a></li>
+                <li><a href="#box1">C</a></li>
+                <li><a href="">watch</a></li>
+                <li><a href="">Live</a></li>
+
+            </ul>
+            <a href="" id="home">Home</a>
+        </div>
+    </div>
+
+    <div class="middle">
+        <p id="middileinfo">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, itaque magni!</p>
+        <button id="btn"> Lets Go!</button>
+    </div>
+
+
+    <div class="info">
+        <h1 id="infoheading">Our courses</h1>
+        <h3 id="infosubheading">Earn a certificate after completion of course.</h3>
+        <p id="infopara"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quaerat. Nisi earum molestiae
+            provident doloremque, commodi dolorem suscipit, placeat fugiat quisquam amet exercitationem tenetur sunt
+            iure saepe, ratione fugit aliquid quo voluptatem cumque. Fuga voluptas doloribus dolor harum quam pariatur
+            sequi labore deserunt recusandae!</p>
+    </div>
+
+
+
+
+
+    <div class="last" id="lastlast">
+        <div class=box id="box1">
+            <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt=""></a>
+            <p id="cpara"> Box 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi harum voluptatibus
+                corrupti inventore exercitationem officiis ea omnis vel maxime soluta nihil quia atque cumque quos quis,
+                necessitatibus repudiandae labore veniam debitis suscipit sapiente?
+            </p>
+        </div>
+
+        <div class="box" id="box2">
+            <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt=""></a>
+            <p> Box 2 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto necessitatibus,
+                eum voluptas a molestias facilis illum, at ut voluptatum perspiciatis eveniet? Corporis ipsum illo
+                accusamus
+                quisquam alias necessitatibus eaque provident</p>
+        </div>
+        <div class="box" id="box3">
+            <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt=""></a></a>
+            <p> Box 3 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe repellendus
+                praesentium quas, animi nihil eum ad error officiis incidunt pariatur assumenda deserunt explicabo rem
+                corrupti tempore voluptatem culpa exercitationem iure harum illum</p>
+        </div>
+        <div class="box" id="box4">
+            <a href=""> <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt=""></a>
+            <p> Box 3 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe repellendus
+                praesentium quas, animi nihil eum ad error officiis incidunt pariatur assumenda deserunt explicabo rem
+                corrupti tempore voluptatem culpa exercitationem iure harum illum</p>
+        </div>
+    </div>
+
+
+    <div class="member">
+        <p id="memberheading"> Are you a student ?</p>
+        <p>Sign up with college id to Get discount.</p>
+
+        <div> <input type="text" placeholder="Enter your email" id="email">
+            <input type="submit" placeholder="Submit" id="submitbtn">
+        </div>
+    </div>
+
+    <div class="contactbottom">
+        <div class="dibba" id="dibba1">
+            <a href="#cont" id="hh"> HOME</a>
+        </div>
+        <div class="dibba" id="dibba2">
+            <p id="menu">MENU</p>
+            <p><a href="">Live</a></p>
+            <p><a href="">Watch</a></p>
+            <p><a href="">C</a></p>
+            <p><a href="">C++</a></p>
+            <p><a href="">Java</a></p>
+            <p><a href="">Python</a></p>
+
+        </div>
+        <div class="dibba" id="dibba3">
+            <p id="courses"> COURSES</p>
+
+            <p><a href="#box1">C</a></p>
+            <p><a href="#box2">C++</a></p>
+            <p><a href="#box3">Java</a></p>
+            <p><a href="#box4">Python</a></p>
+        </div>
+        <div class="dibba" id="dibba4">
+            <p id="help">HELP</p>
+
+            <p><a href="">Privacy Policy</a></p>
+            <p><a href="">Terms and Conditions</a></p>
+            <p><a href="">Student Offer</a></p>
+
+        </div>
+        <div class="dibba" id="dibba5">
+            <p id="help">FOLLOW
+
+            </p>
+            <p><a href="" target="_blank">Instagram</a></p>
+            <p><a href="" target="_blank">Twitter</a></p>
+            <p><a href="" target="_blank">Youtube</a></p>
+            <p><a href="" target="_blank">Facebook</a></p>
+            <p><a href="" target="_blank">Linked In</a></p>
+        </div>
+    </div>
+
+    <div class="copy">
+        &copy;  2022 by Amit Bhramanna all rights reserved .
+    </div>
+
+
+
+
+</body>
+
+</html>
